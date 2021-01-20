@@ -135,11 +135,11 @@
 	                		<li>NavBar에 Bootstrap Framework 적용</li>
 	                	</ul>
 	                	
-	                	<h4>2020.12.23</h4>
+	                	<h4>2020.01.20</h4>
 	                	<ul>
 	                		<li>Bootstrap Framework를 이용한 디자인 변경</li>
 	                		<li>Home, 부서 페이지에 새 디자인 적용</li>
-	                		<li>Google Web Fonts 적용 (Righteous, Noto Sans KR, Black Han Sans)</li>
+	                		<li>Google Web Fonts 적용</li>
 	                	</ul>
 	                </td>
 	            </tr>
