@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+<div class="container center">
+<nav class="navbar navbar-expand-sm bg-primary navbar-dark">
 	<div class="container">
 		<a class="navbar-brand title" href="./index.jsp">Employees project</a>
 		<ul class="navbar-nav">
@@ -27,3 +28,4 @@
 		</ul>
 	</div>
 </nav>
+</div>

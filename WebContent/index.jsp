@@ -66,7 +66,9 @@
 		</style>
 	</head>
 	<body>
+		<div class="container center">
 		<%@ include file="./menu.jsp" %>
+		</div>
 		<div class="container center">
 			<br>
 		
@@ -93,55 +95,8 @@
 	                <td>JSP로만 제작한 첫 번째 웹 프로젝트</td>
 	            </tr>
 	            <tr>
-	                <th>프로젝트 과정</th>
-	                <td>
-	                	<h4>2020.09.08</h4>
-	                	<ul>
-	                		<li>최초 프로젝트 생성</li>
-	                		<li>JSP를 이용하여 데이터베이스 내용 출력</li>
-	                		<li>departments, dept_emp, dept_manager, employees, salaries, titles 페이지 제작</li>
-	                	</ul>
-	                	
-	                	<br>
-	                	
-	                	<h4>2020.09.10</h4>
-	                	<ul>
-	                		<li>페이징 기능 추가</li>
-	                		<li>이전/다음 페이지로 이동할 수 있는 기능 추가</li>
-	                		<li>departments, dept_emp, dept_manager, employees, salaries, titles 페이지에 적용</li>
-	                	</ul>
-	                	
-	                	<br>
-	                	
-	                	<h4>2020.09.11</h4>
-	                	<ul>
-	                		<li>검색기능 추가</li>
-	                		<li>동적 쿼리를 이용한 검색기능 추가</li>
-	                		<li>employees 페이지에 적용</li>
-	                	</ul>
-	                	
-	                	<br>
-	                	
-	                	<h4>2020.09.14</h4>
-	                	<ul>
-	                		<li>동적 쿼리를 이용한 검색기능 추가</li>
-	                		<li>departments, employees, dept_emp 페이지에 적용</li>
-	                	</ul>
-	                	
-	                	<h4>2020.09.15</h4>
-	                	<ul>
-	                		<li>동적 쿼리를 이용한 검색기능 추가</li>
-	                		<li>salaries 페이지에 적용</li>
-	                		<li>NavBar에 Bootstrap Framework 적용</li>
-	                	</ul>
-	                	
-	                	<h4>2020.01.20</h4>
-	                	<ul>
-	                		<li>Bootstrap Framework를 이용한 디자인 변경</li>
-	                		<li>Home, 부서 페이지에 새 디자인 적용</li>
-	                		<li>Google Web Fonts 적용</li>
-	                	</ul>
-	                </td>
+	              	<th>상세설명</th>
+	              	<td><a href="https://github.com/baebae98/employees">https://github.com/baebae98/employees</a></td>
 	            </tr>
 			</table>
 		</div>
