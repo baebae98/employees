@@ -30,8 +30,10 @@
 #####  ●salaries 페이지에 적용
 #####  ●dNavBar에 Bootstrap Framework 적용
 #
-#### 2020.01.20
+#### 2021.01.20 ~
+#####  ●계속 디자인 
 #####  ●Bootstrap Framework를 이용한 디자인 변경
 #####  ●Home, 부서 페이지에 새 디자인 적용
 #####  ●Google Web Fonts 적용
+
 
