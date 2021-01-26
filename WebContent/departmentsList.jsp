@@ -140,7 +140,7 @@
 			<br>
 		    
 		    <!-- 데이터 목록 -->
-		    <table class="table table-hover tb-width center">
+		    <table class="table table-border table-primary tb-width center">
 	        	<thead>
 		        	<tr>
 		                <th>부서 번호</th>

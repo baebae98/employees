@@ -112,7 +112,7 @@
 			<br>
 		    
 		    <!-- 데이터 목록 -->
-		    <table class="table table-hover tb-width center">
+		    <table class="table table-hover table-primary tb-width center">
 	        	<thead>
 		        	<tr>
 		                <th>부서번호</th>
